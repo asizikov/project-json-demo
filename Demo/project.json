@@ -1,0 +1,11 @@
+﻿{
+  "dependencies": {
+    "Rx-Main": "2.2.5"
+  },
+  "frameworks": {
+    "net452": {}
+  },
+  "runtimes": {
+    "win": {}
+  }
+}
