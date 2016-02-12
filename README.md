@@ -33,5 +33,6 @@ Links:
 * [Project.json all the things](https://oren.codes/2016/02/08/project-json-all-the-things/)
 * [NuGet 3.0, .NET and project.json](http://docs.nuget.org/consume/ProjectJson-Intro)
 * [Using project.json for other project types](http://blogs.msdn.com/b/lucian/archive/2015/08/19/using-project-json-for-other-project-types.aspx)
+* [Visual Studio Tooling - NuGet Features Enhance Windows 10 Development](https://msdn.microsoft.com/en-us/magazine/mt590972.aspx)
 
 
