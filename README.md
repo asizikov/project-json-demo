@@ -1,7 +1,7 @@
 # project-json-demo
 This repository contains a demo .NET 4.5.2  application with `project.json` 
 
-[![Build status](https://ci.appveyor.com/api/projects/status/gmhseph9h0kcgyma?svg=true)](https://ci.appveyor.com/project/asizikov/project-json-demo)
+[![Build status](https://ci.appveyor.com/api/projects/status/gmhseph9h0kcgyma?svg=true)](https://ci.appveyor.com/project/asizikov/project-json-demo) [![Dependency Status](https://dependencyci.com/github/asizikov/project-json-demo/badge)](https://dependencyci.com/github/asizikov/project-json-demo)
 
 The solution is simple enough. Just two projects: `Demo` and `Demo.Tests`. 
 
